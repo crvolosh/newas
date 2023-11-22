@@ -970,8 +970,8 @@ button {
 }
 @media (min-width: 384px) and (max-width: 430px) {
   .nukebtc {
-    width: 207px;
-    left: 50%;
+    width: 185px;
+    left: 54%;
     margin-top: 15%;
   }
 }
@@ -995,7 +995,6 @@ button {
 }
 @media (min-width: 384px) and (max-width: 430px) {
   .pngwallet {
-    right: 6vh;
-    bottom: -2.4vh;
+    display: none;
   }
 }
